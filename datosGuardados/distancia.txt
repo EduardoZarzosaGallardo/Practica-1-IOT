@@ -56,3 +56,9 @@ Distancia: 180.45 cm  00:30:05
 Distancia: 181.28 cm  00:30:58
 Distancia: 180.00 cm  00:31:36
 Distancia: 183.34 cm  00:35:38
+Distancia: 182.96 cm  00:37:34
+Distancia: 184.64 cm  00:39:39
+Distancia: 193.44 cm  00:39:58
+Distancia: 182.54 cm  00:42:00
+Distancia: 193.78 cm  00:43:07
+Distancia: 180.86 cm  00:44:05

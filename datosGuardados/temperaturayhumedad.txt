@@ -43,3 +43,9 @@ Humedad: 20.0% Temperatura: 27.9C. Hora:00:30:11
 Humedad: 21.0% Temperatura: 27.9C. Hora:00:31:05
 Humedad: 21.0% Temperatura: 27.9C. Hora:00:31:43
 Humedad: 22.0% Temperatura: 28.1C. Hora:00:35:45
+Humedad: 22.0% Temperatura: 28.1C. Hora:00:37:41
+Humedad: 22.0% Temperatura: 28.0C. Hora:00:39:46
+Humedad: 20.0% Temperatura: 27.9C. Hora:00:40:05
+Humedad: 20.0% Temperatura: 27.9C. Hora:00:42:07
+Humedad: 20.0% Temperatura: 27.9C. Hora:00:43:14
+Humedad: 21.0% Temperatura: 27.8C. Hora:00:44:11
